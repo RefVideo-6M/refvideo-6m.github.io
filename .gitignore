@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor / OS
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Source archives (don't deploy)
+*.zip
+RefVideo_6M_AAAI2027.pdf
