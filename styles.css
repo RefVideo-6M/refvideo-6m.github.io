@@ -1622,7 +1622,6 @@ img.meta-ref-thumb {
 
 /* override .button used by Copy BibTeX */
 .button {
-  background-color: #1a1a1a;
   color: var(--heading);
   border: 1px solid #333;
   padding: 12px 24px;
