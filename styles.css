@@ -102,7 +102,6 @@ body {
 
 .hero-cta,
 .hero-cta.secondary-cta {
-  background-color: #1a1a1a;
   color: var(--heading);
   text-decoration: none;
   border: 1px solid #333;
