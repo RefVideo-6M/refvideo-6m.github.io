@@ -549,11 +549,11 @@ supplementaryImageTaskNames.forEach((name, index) => {
 });
 
 const allTasks = [...videoTasks, ...imageTasks];
-const citationBib = `@misc{zi2026refvideo6m,
+const citationBib = `@article{zi2026refvideo6m
   title={RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing},
-  author={Anonymous Team},
+  author={Bojia Zi and Xiaoyan Yang and Yu Zhou and Ruijie Sun and Lihan Zhang and Bin Liang and Kam-Fai Wong and Haibin Huang and Chi Zhang and Xuelong Li},
+  journal={arXiv preprint arXiv:2608.26101},
   year={2026},
-  note={Project page},
 }`;
 const authors = [
   { name: "Anonymous 1" },
