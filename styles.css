@@ -1636,7 +1636,7 @@ img.meta-ref-thumb {
 }
 
 .button:hover {
-  background-color: #555555;
+  background-color: #dceafa;
   border-color: #555555;
   color: var(--heading);
   transform: translateY(-2px);
